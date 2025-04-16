@@ -10,3 +10,4 @@ instance/
 
 # Environment files
 env/
+.app.py
